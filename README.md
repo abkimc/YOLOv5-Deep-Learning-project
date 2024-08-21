@@ -6,3 +6,4 @@ it holds the training code as a nootebook and the relevent config files as well 
 Our work won first place in the class compttiotion, wining us a reward in the shapew of 1000$ in AWS credits.
 
 ![image](https://github.com/user-attachments/assets/c85cd761-f7ed-437e-8b99-155f1ecee002)
+![val_batch1_pred](https://github.com/user-attachments/assets/829a941d-dac5-4b80-93f7-e0e2e1253e66)
