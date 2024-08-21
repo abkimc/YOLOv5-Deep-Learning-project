@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/sshikamaru/drone-yolo-detection
+https://www.kaggle.com/datasets/nyahmet/fixed-wing-uav-dataset
